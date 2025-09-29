@@ -1,0 +1,26 @@
+VAULT MONITORING REPORTS
+Filename: keys.txt
+Size: 54
+Last modified date: 2025-09-29 14:11:33.787356697 +0200
+Current permissions: 777
+⚠️  SECURITY RISK DETECTED
+
+
+Filename: logs.txt
+Size: 99
+Last modified date: 2025-09-29 21:25:48.993370480 +0200
+Current permissions: 644
+
+
+Filename: secrets.txt
+Size: 77
+Last modified date: 2025-09-29 21:24:43.312657862 +0200
+Current permissions: 640
+
+
+Filename: vault_report.txt
+Size: 419
+Last modified date: 2025-09-29 23:11:53.550158214 +0200
+Current permissions: 644
+
+
